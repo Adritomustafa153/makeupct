@@ -1,0 +1,11 @@
+git init
+
+git status
+
+git add .
+
+git commit "DB create and connection"
+
+git remote add origin https://github.com/Adritomustafa153/makeupct.git
+
+git push -u origin master
